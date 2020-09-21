@@ -8,7 +8,7 @@
 #  Optional features: tesseract-ocr  tesseract-ocr-eng
 # Supported versions:
 #               VirtualBox >= 6.1.6     dmg2img >= 1.6.5
-#               GNU bash >= 4.3         GNU coreutils >= 8.22
+#                GNU bash >= 4.3         GNU coreutils >= 8.22
 #               GNU gzip >= 1.5         GNU wget >= 1.14
 #               Info-ZIP unzip >= 6.0   xxd >= 1.11,
 #               tesseract-ocr >= 4
